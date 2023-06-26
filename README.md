@@ -1,4 +1,4 @@
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=HEY%20THERE&height=130&fontSize=60&descAlignY=75&descAlign=center)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=HEY%20THERE&height=150&fontSize=60&descAlignY=75&descAlign=center)
 
 <a href="https://www.linkedin.com/in/ali-jabar-aa056423b/">
   <img height="60" src="https://github.com/sharonye0/sharonye0/assets/86781708/05040862-89c8-490f-81c4-7144fa7b08b1"/>
