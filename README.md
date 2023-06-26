@@ -1,4 +1,4 @@
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=HEY%20THERE&height=130&fontSize=60&descAlignY=75&descAlign=60)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=HEY%20THERE&height=130&fontSize=60&descAlignY=75&descAlign=center)
 
 
 <a href="https://www.instagram.com/thepiyushmalhotra/">
