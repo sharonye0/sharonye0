@@ -17,7 +17,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=sharonye0&show_icons=true&theme=gruvbox"
     media="(prefers-color-scheme: gruvbox)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sharonye0&show_icons=true" />
 </picture>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=i48kacsk723y3kt9wo19k51o3&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=i48kacsk723y3kt9wo19k51o3&redirect=true)
