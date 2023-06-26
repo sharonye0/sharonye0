@@ -1,4 +1,4 @@
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=HEY%20THERE&height=150&fontSize=60&descAlignY=75&descAlign=center)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=HEY%20THERE&height=150&fontSize=60)
 
 <p align="center">
 <a href="https://alijabarportfolio.web.app/">
