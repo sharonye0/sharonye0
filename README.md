@@ -5,7 +5,7 @@
 </a>
 
 <a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="https://github.com/sharonye0/sharonye0/assets/86781708/05040862-89c8-490f-81c4-7144fa7b08b1"/>
+  <img height="60" src="https://github.com/sharonye0/sharonye0/assets/86781708/05040862-89c8-490f-81c4-7144fa7b08b1"/>
 </a>
 
 
