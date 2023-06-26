@@ -11,7 +11,7 @@
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
   </a>
 </p>
-
+<!--
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=sharonye0&show_icons=true&theme=dark"
@@ -23,6 +23,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=sharonye0&show_icons=true" />
 </picture>
+-->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
