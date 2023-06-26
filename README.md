@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/ali-jabar-aa056423b/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
-<a href="https://dev.to/thepiyushmalhotra">
+<a href="https://dev.to/sharonye0">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
 </a>
 </p>
