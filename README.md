@@ -14,12 +14,8 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=sharonye0&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=sharonye0&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    srcset="https://github-readme-stats.vercel.app/api?username=sharonye0&show_icons=true&theme=gruvbox"
+    media="(prefers-color-scheme: gruvbox)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
