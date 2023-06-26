@@ -24,6 +24,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sharonye0&show_icons=true" />
 </picture>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=i48kacsk723y3kt9wo19k51o3&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=i48kacsk723y3kt9wo19k51o3&redirect=true)
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
