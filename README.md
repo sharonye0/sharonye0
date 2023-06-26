@@ -12,6 +12,8 @@
   </a>
 </p>
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=i48kacsk723y3kt9wo19k51o3&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=i48kacsk723y3kt9wo19k51o3&redirect=true)
+
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
