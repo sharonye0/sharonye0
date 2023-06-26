@@ -1,4 +1,4 @@
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=HEYTHERE&height=150&fontSize=60&desc=Only%20Use%20Text&descAlignY=75&descAlign=60)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=HEYT%20HERE&height=150&fontSize=60&desc=Only%20Use%20Text&descAlignY=75&descAlign=60)
 <!--
 **sharonye0/sharonye0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
