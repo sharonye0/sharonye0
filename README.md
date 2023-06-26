@@ -1,6 +1,6 @@
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=HEY%20THERE&height=130&fontSize=60&descAlignY=75&descAlign=center)
 
-
+![image](https://github.com/sharonye0/sharonye0/assets/86781708/01b75834-a7bb-4a71-82e9-c54388d1efab)
 ![image](https://github.com/sharonye0/sharonye0/assets/86781708/06664c07-9ea3-4df3-b6ac-11402590c3f3)
 <a>
   <img height="50" src=""/>
