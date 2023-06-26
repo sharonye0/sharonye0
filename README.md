@@ -24,6 +24,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharonye0)](https://github.com/sharonye0/github-readme-stats)
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=i48kacsk723y3kt9wo19k51o3&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=i48kacsk723y3kt9wo19k51o3&redirect=true)
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
