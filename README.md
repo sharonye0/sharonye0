@@ -1,7 +1,6 @@
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Happy%20To%20See%20You%20Here&height=150&fontSize=60)
 
-# 💫 About Me:
-🔭 I'm currently working on side project<br>👯 I'm looking to collaborate on any open source project<br>🌱 I'm currently learning React and Go
+
 
 
 ## 🌐 Socials:
@@ -21,7 +20,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=sharonye0&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sharonye0&icon=0&color=2)](https://visitcount.itsvg.in)
+# 💫 About Me:
+🔭 I'm currently working on side project<br>👯 I'm looking to collaborate on any open source project<br>🌱 I'm currently learning React and Go
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
