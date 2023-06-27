@@ -1,5 +1,4 @@
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Happy%20To%20See%20You%20Here&height=150&fontSize=60)
-<iframe src="https://giphy.com/embed/u2LJ0n4lx6jF6" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/kick-toaru-kagaku-no-railgun-u2LJ0n4lx6jF6">via GIPHY</a></p>
+<img align="center" src="https://giphy.com/embed/u2LJ0n4lx6jF6" />
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-jabar-aa056423b) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/sharonye0) 
