@@ -1,4 +1,4 @@
-<img align="center" src="https://giphy.com/embed/u2LJ0n4lx6jF6" />
+<img align="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2RlNHEzcG4zeGZ4Nzd5Zmo3YWN1N2JnNDNjNzJ4aTNpMGZ6aml4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u2LJ0n4lx6jF6/giphy.gif" />
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-jabar-aa056423b) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/sharonye0) 
