@@ -17,9 +17,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sharonye0&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sharonye0&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
-
 ---
 # 💫 About Me:
 🔭 I'm currently working on side project<br>👯 I'm looking to collaborate on any open source project<br>🌱 I'm currently learning React and Go
